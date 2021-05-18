@@ -15,4 +15,5 @@ zweiteZahl = prompt("Bitte die zweite Zahl eingeben: ");
 
 Summe = Number(ersteZahl) + Number(zweiteZahl);
 console.log("Summe = " + Summe);
+//test
 
