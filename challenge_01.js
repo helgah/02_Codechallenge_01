@@ -16,4 +16,13 @@ zweiteZahl = prompt("Bitte die zweite Zahl eingeben: ");
 Summe = Number(ersteZahl) + Number(zweiteZahl);
 console.log("Summe = " + Summe);
 
-
+//Beispiel 2
+/*
+let zahl1, zahl2
+let Summe
+zahl1 = parseFloat(prompt("Bitte gebe Zahl1 ein"));
+zahl2 = parseFloat(prompt("Bitte gebe Zahl2 ein"));
+summe = zahl1 + zahl2
+      document.write(" Das Ergebnis lautet " + summe );
+console.log(zahl1 + zahl2);
+*/
